@@ -1,0 +1,11 @@
+pyYAML
+tqdm
+types-PyYAML
+Flask
+Flask-Cors
+fastapi
+uvicorn
+opencv-python==3.4.2.16
+opencv-contrib-python==3.4.2.16
+pillow
+-e .
